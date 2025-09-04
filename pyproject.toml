@@ -1,0 +1,9 @@
+[project]
+name = "projcontrol"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pypjlink2>=1.2.2",
+]
